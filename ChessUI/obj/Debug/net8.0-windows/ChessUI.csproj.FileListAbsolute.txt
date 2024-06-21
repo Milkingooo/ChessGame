@@ -26,3 +26,5 @@ D:\мдк 01.01\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.sourcelink.json
 D:\мдк 01.01\Chess\ChessUI\obj\Debug\net8.0-windows\GameOverMenu.g.cs
 D:\мдк 01.01\Chess\ChessUI\obj\Debug\net8.0-windows\App.baml
 D:\мдк 01.01\Chess\ChessUI\obj\Debug\net8.0-windows\GameOverMenu.baml
+D:\мдк 01.01\Chess\ChessUI\obj\Debug\net8.0-windows\PromotionMenu.g.cs
+D:\мдк 01.01\Chess\ChessUI\obj\Debug\net8.0-windows\PromotionMenu.baml
