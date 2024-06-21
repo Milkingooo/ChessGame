@@ -9,3 +9,4 @@ D:\мдк 01.01\Chess\ChessLibrary\obj\Debug\net8.0\ChessLibrary.dll
 D:\мдк 01.01\Chess\ChessLibrary\obj\Debug\net8.0\refint\ChessLibrary.dll
 D:\мдк 01.01\Chess\ChessLibrary\obj\Debug\net8.0\ChessLibrary.pdb
 D:\мдк 01.01\Chess\ChessLibrary\obj\Debug\net8.0\ref\ChessLibrary.dll
+D:\мдк 01.01\Chess\ChessLibrary\obj\Debug\net8.0\ChessLibrary.sourcelink.json
