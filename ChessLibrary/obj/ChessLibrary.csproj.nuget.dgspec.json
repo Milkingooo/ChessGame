@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\мдк 01.01\\Chess\\ChessLibrary\\ChessLibrary.csproj": {}
+    "C:\\Users\\KONOPATIY\\Praktika\\ChessGame\\ChessLibrary\\ChessLibrary.csproj": {}
   },
   "projects": {
-    "D:\\мдк 01.01\\Chess\\ChessLibrary\\ChessLibrary.csproj": {
+    "C:\\Users\\KONOPATIY\\Praktika\\ChessGame\\ChessLibrary\\ChessLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\мдк 01.01\\Chess\\ChessLibrary\\ChessLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\KONOPATIY\\Praktika\\ChessGame\\ChessLibrary\\ChessLibrary.csproj",
         "projectName": "ChessLibrary",
-        "projectPath": "D:\\мдк 01.01\\Chess\\ChessLibrary\\ChessLibrary.csproj",
-        "packagesPath": "C:\\Users\\makst\\.nuget\\packages\\",
-        "outputPath": "D:\\мдк 01.01\\Chess\\ChessLibrary\\obj\\",
+        "projectPath": "C:\\Users\\KONOPATIY\\Praktika\\ChessGame\\ChessLibrary\\ChessLibrary.csproj",
+        "packagesPath": "C:\\Users\\KONOPATIY\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\KONOPATIY\\Praktika\\ChessGame\\ChessLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\makst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\KONOPATIY\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
