@@ -1,0 +1,11 @@
+D:\мдк 01.01\Chess\ChessLibrary\bin\Debug\net8.0\ChessLibrary.deps.json
+D:\мдк 01.01\Chess\ChessLibrary\bin\Debug\net8.0\ChessLibrary.dll
+D:\мдк 01.01\Chess\ChessLibrary\bin\Debug\net8.0\ChessLibrary.pdb
+D:\мдк 01.01\Chess\ChessLibrary\obj\Debug\net8.0\ChessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\мдк 01.01\Chess\ChessLibrary\obj\Debug\net8.0\ChessLibrary.AssemblyInfoInputs.cache
+D:\мдк 01.01\Chess\ChessLibrary\obj\Debug\net8.0\ChessLibrary.AssemblyInfo.cs
+D:\мдк 01.01\Chess\ChessLibrary\obj\Debug\net8.0\ChessLibrary.csproj.CoreCompileInputs.cache
+D:\мдк 01.01\Chess\ChessLibrary\obj\Debug\net8.0\ChessLibrary.dll
+D:\мдк 01.01\Chess\ChessLibrary\obj\Debug\net8.0\refint\ChessLibrary.dll
+D:\мдк 01.01\Chess\ChessLibrary\obj\Debug\net8.0\ChessLibrary.pdb
+D:\мдк 01.01\Chess\ChessLibrary\obj\Debug\net8.0\ref\ChessLibrary.dll
