@@ -60,3 +60,5 @@ C:\Users\KONOPATIY\Praktika\ChessGame\ChessUI\obj\Debug\net8.0-windows\ChessUI.g
 C:\Users\KONOPATIY\Praktika\ChessGame\ChessUI\obj\Debug\net8.0-windows\ref\ChessUI.dll
 C:\Users\KONOPATIY\Praktika\ChessGame\ChessUI\obj\Debug\net8.0-windows\PauseMenu.g.cs
 C:\Users\KONOPATIY\Praktika\ChessGame\ChessUI\obj\Debug\net8.0-windows\PauseMenu.baml
+D:\мдк 01.01\Chess\ChessUI\obj\Debug\net8.0-windows\PauseMenu.g.cs
+D:\мдк 01.01\Chess\ChessUI\obj\Debug\net8.0-windows\PauseMenu.baml
