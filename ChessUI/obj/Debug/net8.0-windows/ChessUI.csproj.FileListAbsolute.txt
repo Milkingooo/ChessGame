@@ -3,8 +3,6 @@ D:\мдк 01.01\Chess\ChessUI\bin\Debug\net8.0-windows\ChessUI.deps.json
 D:\мдк 01.01\Chess\ChessUI\bin\Debug\net8.0-windows\ChessUI.runtimeconfig.json
 D:\мдк 01.01\Chess\ChessUI\bin\Debug\net8.0-windows\ChessUI.dll
 D:\мдк 01.01\Chess\ChessUI\bin\Debug\net8.0-windows\ChessUI.pdb
-D:\мдк 01.01\Chess\ChessUI\bin\Debug\net8.0-windows\ChessLibrary.dll
-D:\мдк 01.01\Chess\ChessUI\bin\Debug\net8.0-windows\ChessLibrary.pdb
 D:\мдк 01.01\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.csproj.AssemblyReference.cache
 D:\мдк 01.01\Chess\ChessUI\obj\Debug\net8.0-windows\MainWindow.g.cs
 D:\мдк 01.01\Chess\ChessUI\obj\Debug\net8.0-windows\App.g.cs
@@ -16,7 +14,6 @@ D:\мдк 01.01\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.GeneratedMSBuildE
 D:\мдк 01.01\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.AssemblyInfoInputs.cache
 D:\мдк 01.01\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.AssemblyInfo.cs
 D:\мдк 01.01\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.csproj.CoreCompileInputs.cache
-D:\мдк 01.01\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.csproj.Up2Date
 D:\мдк 01.01\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.dll
 D:\мдк 01.01\Chess\ChessUI\obj\Debug\net8.0-windows\refint\ChessUI.dll
 D:\мдк 01.01\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.pdb
@@ -62,3 +59,4 @@ C:\Users\KONOPATIY\Praktika\ChessGame\ChessUI\obj\Debug\net8.0-windows\PauseMenu
 C:\Users\KONOPATIY\Praktika\ChessGame\ChessUI\obj\Debug\net8.0-windows\PauseMenu.baml
 D:\мдк 01.01\Chess\ChessUI\obj\Debug\net8.0-windows\PauseMenu.g.cs
 D:\мдк 01.01\Chess\ChessUI\obj\Debug\net8.0-windows\PauseMenu.baml
+D:\мдк 01.01\Chess\ChessUI\obj\Debug\net8.0-windows\ChessUI.csproj.Fody.CopyLocal.cache

@@ -134,7 +134,7 @@ namespace ChessUI
                 Move promMove = new PawnPromotion(from, to, type);
                 HandleMove(promMove);
             };
-        }
+         }
 
         private void HandleMove(Move move)
         {

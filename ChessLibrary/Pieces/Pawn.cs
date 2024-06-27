@@ -1,4 +1,4 @@
-﻿namespace ChessLibrary
+﻿  namespace ChessLibrary
 {
     public class Pawn : Piece
     {
@@ -68,7 +68,7 @@
                     yield return new NormalMove(from, oneMovePos);
                 }
 
-                yield return new NormalMove(from, oneMovePos);
+                //yield return new NormalMove(from, oneMovePos);
 
                 Position twoMovesPos = oneMovePos + forward;
 

@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\\u043C\u0434\u043A 01.01\\Chess\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97FC2492-B1D8-4778-81C9-6BA75E6C5986}|ChessLibrary\\ChessLibrary.csproj|d:\\\u043C\u0434\u043A 01.01\\chess\\chesslibrary\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97FC2492-B1D8-4778-81C9-6BA75E6C5986}|ChessLibrary\\ChessLibrary.csproj|solutionrelative:chesslibrary\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97FC2492-B1D8-4778-81C9-6BA75E6C5986}|ChessLibrary\\ChessLibrary.csproj|d:\\\u043C\u0434\u043A 01.01\\chess\\chesslibrary\\pieces\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97FC2492-B1D8-4778-81C9-6BA75E6C5986}|ChessLibrary\\ChessLibrary.csproj|solutionrelative:chesslibrary\\pieces\\pawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97FC2492-B1D8-4778-81C9-6BA75E6C5986}|ChessLibrary\\ChessLibrary.csproj|d:\\\u043C\u0434\u043A 01.01\\chess\\chesslibrary\\statestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97FC2492-B1D8-4778-81C9-6BA75E6C5986}|ChessLibrary\\ChessLibrary.csproj|solutionrelative:chesslibrary\\statestring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C494A47A-3719-4389-9C3A-C6ECC91A5322}|ChessUI\\ChessUI.csproj|d:\\\u043C\u0434\u043A 01.01\\chess\\chessui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C494A47A-3719-4389-9C3A-C6ECC91A5322}|ChessUI\\ChessUI.csproj|solutionrelative:chessui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97FC2492-B1D8-4778-81C9-6BA75E6C5986}|ChessLibrary\\ChessLibrary.csproj|d:\\\u043C\u0434\u043A 01.01\\chess\\chesslibrary\\moves\\pawnpromotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97FC2492-B1D8-4778-81C9-6BA75E6C5986}|ChessLibrary\\ChessLibrary.csproj|solutionrelative:chesslibrary\\moves\\pawnpromotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GameState.cs",
-              "DocumentMoniker": "D:\\\u043C\u0434\u043A 01.01\\Chess\\ChessLibrary\\GameState.cs",
-              "RelativeDocumentMoniker": "ChessLibrary\\GameState.cs",
-              "ToolTip": "D:\\\u043C\u0434\u043A 01.01\\Chess\\ChessLibrary\\GameState.cs",
-              "RelativeToolTip": "ChessLibrary\\GameState.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAwwF8AAABEAAAA",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u043C\u0434\u043A 01.01\\Chess\\ChessUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ChessUI\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u043C\u0434\u043A 01.01\\Chess\\ChessUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ChessUI\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAwwIEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T07:47:38.668Z",
+              "WhenOpened": "2024-06-27T20:36:15.938Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StateString.cs",
-              "DocumentMoniker": "D:\\\u043C\u0434\u043A 01.01\\Chess\\ChessLibrary\\StateString.cs",
-              "RelativeDocumentMoniker": "ChessLibrary\\StateString.cs",
-              "ToolTip": "D:\\\u043C\u0434\u043A 01.01\\Chess\\ChessLibrary\\StateString.cs",
-              "RelativeToolTip": "ChessLibrary\\StateString.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Pawn.cs",
+              "DocumentMoniker": "D:\\\u043C\u0434\u043A 01.01\\Chess\\ChessLibrary\\Pieces\\Pawn.cs",
+              "RelativeDocumentMoniker": "ChessLibrary\\Pieces\\Pawn.cs",
+              "ToolTip": "D:\\\u043C\u0434\u043A 01.01\\Chess\\ChessLibrary\\Pieces\\Pawn.cs",
+              "RelativeToolTip": "ChessLibrary\\Pieces\\Pawn.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAwwEYAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T07:28:07.021Z",
+              "WhenOpened": "2024-06-27T20:33:40.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PawnPromotion.cs",
+              "DocumentMoniker": "D:\\\u043C\u0434\u043A 01.01\\Chess\\ChessLibrary\\Moves\\PawnPromotion.cs",
+              "RelativeDocumentMoniker": "ChessLibrary\\Moves\\PawnPromotion.cs",
+              "ToolTip": "D:\\\u043C\u0434\u043A 01.01\\Chess\\ChessLibrary\\Moves\\PawnPromotion.cs",
+              "RelativeToolTip": "ChessLibrary\\Moves\\PawnPromotion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T12:49:31.156Z",
               "EditorCaption": ""
             }
           ]
